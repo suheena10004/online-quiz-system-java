@@ -1,0 +1,13 @@
+mkdir OnlineQuizSystem
+cd OnlineQuizSystem
+mkdir src
+Put Main.java inside src
+git init
+git add .
+git commit -m "Initial commit - Quiz system created"
+git remote add origin https://github.com/your-username/online-quiz-system-java.git
+git branch -M main
+git push -u origin main
+git commit -m "Added scoring system"
+git commit -m "Improved question display"
+git commit -m "Added more questions"
